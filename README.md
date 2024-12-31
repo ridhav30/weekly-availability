@@ -7,8 +7,8 @@ npm install
 # Run dev mode
 npm run dev
 
-# Run like production
-npm run build
+# Run production
+npm run build &&
 npm run start
 
 # Home page
